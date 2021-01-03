@@ -9,5 +9,11 @@ namespace ConsoleApp1
     class Class1
     {
          Console.WriteLine("Updared added file");
+        
+        public addrole(){
+             Console.WriteLine("Adding new Role...");
+        }
+            
     }
+    
 }
