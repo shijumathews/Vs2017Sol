@@ -10,7 +10,11 @@ namespace ConsoleApp1
     {
         public Class1()
         {
-            Console.WriteLine("Updared added file");
+            public Class1 ()
+            {
+
+            }
+             
         }
         
     }
