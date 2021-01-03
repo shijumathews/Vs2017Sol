@@ -8,15 +8,17 @@ namespace ConsoleApp1
 {
     class Class1
     {
-         Console.WriteLine("Updared added file");
-        Console.WriteLine("Added another file");
+
         public Class1()
         {
-            public Class1 ()
-            {
 
-            }
-             
+        }
+
+        private void display()
+        {
+
+            Console.WriteLine("Shiju Mathews");
+            Console.WriteLine("Nima Shiju");
         }
         
     }
