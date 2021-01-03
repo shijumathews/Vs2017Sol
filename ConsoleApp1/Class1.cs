@@ -22,6 +22,7 @@ namespace ConsoleApp1
             Console.WriteLine("Nima Shiju");
             
             Console.WriteLine("Change 1");
+            Console.WriteLine("Change 2");
         }
         
     }
